@@ -2,12 +2,19 @@
 School Website to display the information about the school events and resources
 This website is made using html,css, tailwind and very minimal javascript. 
 It contains the home,about,gallery,announcement and contact me form. It is a responsive website.
-![Screenshot (245)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/6a2bec32-78cc-4afc-a7d6-66734697c528)
-![Screenshot (246)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/13dd0ed0-acb5-4bc9-a028-ac7e9630b6be)
-![Screenshot (247)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/8346e41c-d5c1-45d7-b34c-1ca025b5b67c)
-![Screenshot (248)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/f8a3ef20-63c0-47e6-a843-519a99ee1e80)
-![Screenshot (249)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/2cb460f4-d353-48fe-b989-5d1934ff5afe)
-![Screenshot (250)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/ed733850-3908-495b-a6c9-0003c8285ef9)
+![Screenshot (251)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/dc942528-a8a9-4b2c-9590-fbf1931ea767)
+![Screenshot (252)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/2b643a8c-b765-4be0-be11-07d001ff47ff)
+![Screenshot (253)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/2fdaec36-96a8-4bc9-9bee-2f96b97d2587)
+![Screenshot (254)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/eaf865d3-c47a-4f10-a507-60c55fd60c26)
+![Screenshot (255)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/b016fad2-a6ae-45f8-9497-2c74ef0576d9)
+![Screenshot (256)](https://github.com/TanyaYadav8266/School-Website/assets/128296728/02230ccd-df9d-408d-859b-133385715988)
+
+
+
+
+
+
+
 
 
 
